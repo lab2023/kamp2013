@@ -3,7 +3,7 @@
 ## 17 Cumartesi 
 
 * Tanışma & Kaynaşma
-* Sınıfın bilgi seviyesinin tespiti
+* [Sınıfın bilgi seviyesinin tespiti](https://docs.google.com/a/lab2023.com/forms/d/1KQRI0V2W7t2rPYGnjxGFL_42ZjbgrsIIh0mylwWlNTI/viewform)
 * Sınıfın beklentilerini algılamak
 * Sınıfın beklentilerine göre ders programını değiştirmek
 
