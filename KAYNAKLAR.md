@@ -22,11 +22,24 @@
 
 ## Git, Github, Gitflow, Semver
 
+**Git**
+
 * [Try Git](http://try.github.com/)
 * [GitScm](http://git-scm.com/book)
 * [Gitimmersion](http://gitimmersion.com/index.html)
 * [Git Cheat Sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 * [Simple Git Guide](http://rogerdudler.github.io/git-guide/)
+
+**Git-flow**
+
+* [A successfull git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+* [Git Flow Video by Igal Tabachnik](http://www.youtube.com/watch?v=qKLz4CNRBb0)
+* [A short introduction to git flow](http://vimeo.com/16018419)
+
+**Genel**
+
+* [Semver, Git, Gitflow, Semver, Huboard](http://www.lab2023.com/kurum-ici-egitim-murat-kemal-baygun-huboard-semver-git-gitflow-ve-proje-yonetimi/)
+
 
 ## Proje Yönetimi
 
