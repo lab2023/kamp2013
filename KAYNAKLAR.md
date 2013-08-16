@@ -20,6 +20,13 @@
 * [Resmi kullanma kılavuzu](http://guides.rubyonrails.org/)
 * [API](http://api.rubyonrails.org/)
 
+## Git, Github, Gitflow, Semver
+
+* [Try Git](http://try.github.com/)
+* [GitScm](http://git-scm.com/book)
+* [Gitimmersion](http://gitimmersion.com/index.html)
+* 
+
 ## Proje Yönetimi
 
 * [Semver.org](http://semver.org/)
