@@ -25,7 +25,8 @@
 * [Try Git](http://try.github.com/)
 * [GitScm](http://git-scm.com/book)
 * [Gitimmersion](http://gitimmersion.com/index.html)
-* 
+* [Git Cheat Sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
+* [Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 
 ## Proje Yönetimi
 
