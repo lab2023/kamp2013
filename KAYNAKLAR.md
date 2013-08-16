@@ -29,6 +29,7 @@
 * [Gitimmersion](http://gitimmersion.com/index.html)
 * [Git Cheat Sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 * [Simple Git Guide](http://rogerdudler.github.io/git-guide/)
+* [Git Scm Videos](http://git-scm.com/videos)
 
 **Git-flow**
 
