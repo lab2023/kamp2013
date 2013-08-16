@@ -33,3 +33,4 @@
 * [Railscasts](http://railscasts.com/)
 * [Codeschool](http://www.codeschool.com/paths/ruby)
 * [Peepcode](https://peepcode.com/)
+* [Pragmaticstudio](http://pragmaticstudio.com/ruby)
