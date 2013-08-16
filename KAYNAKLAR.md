@@ -35,6 +35,7 @@
 * [A successfull git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 * [Git Flow Video by Igal Tabachnik](http://www.youtube.com/watch?v=qKLz4CNRBb0)
 * [A short introduction to git flow](http://vimeo.com/16018419)
+* [Git flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
 
 **Genel**
 
