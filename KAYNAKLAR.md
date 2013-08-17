@@ -12,6 +12,7 @@
 **Kitap**
 
 * [Sıtkı Bağdat - Ruby Kitabı](http://www.rubykitabi.com/)
+* [Dave Thomas - Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
 
 ## Gems
 
