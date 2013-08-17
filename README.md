@@ -10,6 +10,10 @@
 # 18 Pazar
 
 * Geliştirilme ortamının kurulması
+  - [Kurulum scripti](https://github.com/kebab-project/laptop)
+  - RubyMine - Classroom Lisanslarının dağıtılması
+  - Google Chrome
+  - Source Tree
 * Temel Linux eğitimi
 * Git, Github, Git-flow, Semver
 
