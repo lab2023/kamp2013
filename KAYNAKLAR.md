@@ -14,6 +14,11 @@
 * [Sıtkı Bağdat - Ruby Kitabı](http://www.rubykitabi.com/)
 * [Dave Thomas - Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
 
+## Kurulum
+
+* [Kurumum Shell Scriptleri](https://github.com/kebab-project/laptop)
+* [GorRails](http://gorails.com/setup/ubuntu)
+
 ## Gems
 
 * [Ruby Gems](http://rubygems.org/)
@@ -52,7 +57,7 @@
 
 * [Semver.org](http://semver.org/)
 * [Semver.org TR](https://github.com/lab2023/semver/blob/master/semver_tr.md)
-* [Huboard](http://kanban.lab2023.com)
+* [Huboard](http://huboard.com/)
 * [Agile Manifesto](http://agilemanifesto.org/iso/tr/)
 
 ## Video ve Eğitim Siteleri
