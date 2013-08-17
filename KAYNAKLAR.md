@@ -8,6 +8,7 @@
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Ruby Style Guide Tr](https://github.com/ebruAkagunduz/ruby-style-guide) - Ebru Akagündüz'e teşekkürler.
 * [Ruby Tips Tr](https://gist.github.com/vigo/4014178) - http://ugur.ozyilmazel.com/ 'a teşekkürler.
+* [RubyMine Tip Video](http://www.youtube.com/watch?v=LnN-JIxDRCg)
 
 **Kitap**
 
