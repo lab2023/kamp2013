@@ -9,6 +9,10 @@
 * [Ruby Style Guide Tr](https://github.com/ebruAkagunduz/ruby-style-guide) - Ebru Akagündüz'e teşekkürler.
 * [Ruby Tips Tr](https://gist.github.com/vigo/4014178) - http://ugur.ozyilmazel.com/ 'a teşekkürler.
 
+**Kitap**
+
+* [Sıtkı Bağdat - Ruby Kitabı](http://www.rubykitabi.com/)
+
 ## Gems
 
 * [Ruby Gems](http://rubygems.org/)
